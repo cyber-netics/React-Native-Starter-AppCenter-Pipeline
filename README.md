@@ -1,6 +1,9 @@
 <img src="https://github.com/edo92/React-Native-Starter-AppCenter-Pipeline/blob/docs/ui/react-icon.png" width="115"/>
 
 # React Native Starter
+React Native Starter with Microsoft AppCenter Pipeline and Distribution.
+
+<br/>
 
 [![License](https://img.shields.io/badge/license-MIT-yellow?style=shield)](https://github.com/edo92/AWS-ECS-Hosting-Pipeline/blob/main/LICENSE)
 [![Contribution](https://img.shields.io/badge/contributions-welcome-red.svg?style=shield)](https://github.com/edo92/AWS-ECS-Hosting-Pipeline)
@@ -9,8 +12,6 @@
 | --------------- | --------------- |
 | [![ios badge](https://build.appcenter.ms/v0.1/apps/1ce3cae7-5bfa-4333-8a18-7b496ac2bd4a/branches/main/badge)]() | [![android badge](https://build.appcenter.ms/v0.1/apps/4403c41e-19e2-45d3-99f5-2a4e027620d6/branches/main/badge)]() |
 
-
-React Native Starter with Microsoft AppCenter Pipeline and Distribution.
 
 ---
 
