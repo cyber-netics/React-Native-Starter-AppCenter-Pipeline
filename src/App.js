@@ -3,9 +3,9 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 import { Provider } from "react-redux";
 
-import DashboardScreen from "./src/screens/Dashboard";
-import HomeScreen from "./src/screens/Home";
-import Store from "./src/store";
+import DashboardScreen from "./screens/Dashboard";
+import HomeScreen from "./screens/Home";
+import Store from "./store";
 
 const Stack = createStackNavigator();
 
